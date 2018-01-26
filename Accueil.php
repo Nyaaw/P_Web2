@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <?php include ""
+    <title>Bonjour</title>
+    <?php include "inhead.php" ?>
 </head>
 
 <?php/**
