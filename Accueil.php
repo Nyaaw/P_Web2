@@ -17,14 +17,14 @@
     <body>
         <div class="wrapper">
             <div class="page-header clear-filter">
-                <div class="page-header-image" data-parallax="true" style="background-image: url('./assets/img/img_fond_noir.jpg');">
+                <div class="page-header-image" data-parallax="true" style="background-image: url('./assets/img/img_fond.JPG');">
 
                 </div>
                 <div class="container">
                     <div class="content-center brand">
                         <img class="n-logo" src="./assets/img/now-logo.png">
-                        <h1 class="h1-seo">Passion lecture</h1>
-                        <h3>Un site pour les fans de littératures en tout genre et rédacteurs à mi-temps.</h3>
+                        <h1 class="h1-seo h1title">Passion lecture</h1>
+                        <h2>Un site pour les fans de littératures en tout genre et rédacteurs à mi-temps.</h2>
                     </div>
                 </div>
             </div>
