@@ -11,7 +11,7 @@ echo '<html lang="fr">
 ';
 echo "<head>
 ";
-include('head.php');
+include('inhead.php');
 echo "
 </head>
 ";
