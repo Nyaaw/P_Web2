@@ -5,12 +5,20 @@
  * Date: 19.01.2018
  * Time: 10:04
  */
-
-echo "<head>";
+echo"<!DOCTYPE html>
+";
+echo '<html lang="fr">
+';
+echo "<head>
+";
 include('head.php');
-echo "</head>";
-echo "<!-- Navbar -->
-    <nav class=\"navbar navbar-expand-lg bg-primary fixed-top navbar-transparent \" color-on-scroll=\"400\">
+echo "
+</head>
+";
+
+echo "<body class=\"index-page sidebar-collapse\">
+<!-- Navbar -->
+    <nav class=\"navbar navbar-expand-lg bg-primary fixed-top \" color-on-scroll=\"400\">
         <div class=\"container\">
             <div class=\"navbar-translate\">
                 <a class=\"navbar-brand\" href=\"http://demos.creative-tim.com/now-ui-kit/index.html\" rel=\"tooltip\" title=\"Designed by Invision. Coded by Creative Tim\" data-placement=\"bottom\" target=\"_blank\">
@@ -28,12 +36,6 @@ echo "<!-- Navbar -->
                         <a class=\"nav-link\" href=\"javascript:void(0)\" onclick=\"scrollToDownload()\">
                             <i class=\"now-ui-icons arrows-1_cloud-download-93\"></i>
                             <p>Download</p>
-                        </a>
-                    </li>
-                    <li class=\"nav-item\">
-                        <a class=\"nav-link\" href=\"./documentation/tutorial-components.html\" target=\"_blank\">
-                            <i class=\"now-ui-icons files_paper\"></i>
-                            <p>Components</p>
                         </a>
                     </li>
                     <li class=\"nav-item\">
@@ -63,5 +65,10 @@ echo "<!-- Navbar -->
                 </ul>
             </div>
         </div>
-    </nav>";
+    </nav>
+";
 include('script.php');
+echo "
+</body>";
+
+echo '</html>';
