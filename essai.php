@@ -13,8 +13,8 @@
     <title>essai</title>
     <?php include"inhead.php" ?>
 </head>
-<body>
-
+<body class="sidebar-collapse">
+<?php include "includes/header.php" ?>
 <?php include"script.php" ?>
 </body>
 </html>
