@@ -5147,7 +5147,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .index-page .page-header {
-    height: 125vh;
+    height: 100%;
 }
 
 .index-page .page-header .container>.content-center {
@@ -7535,7 +7535,10 @@ Created using IcoMoon - icomoon.io
 }
 
 /* Animation du carousel de la page d'accueil */
-.carousel-inner.onebyone-carosel { margin: auto; width: 90%; }
+.carousel-inner.onebyone-carosel {
+    margin: auto;
+    width: 90%;
+}
 .onebyone-carosel .active.left { left: -33.33%; }
 .onebyone-carosel .active.right { left: 33.33%; }
 .onebyone-carosel .next { left: 33.33%; }
