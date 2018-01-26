@@ -18,8 +18,6 @@
 <script src="./assets/js/plugins/bootstrap-datepicker.js" type="text/javascript"></script>
 <!-- Control Center for Now Ui Kit: parallax effects, scripts for the example pages etc -->
 <script src="./assets/js/now-ui-kit.js?v=1.1.0" type="text/javascript"></script>
-<!-- Plugin de Carousel créé par pradeep330 : https://bootsnipp.com/snippets/featured/thumbnail-carousel-single-image-sliding -->
-<script src="assets/js/plugins/carousel.js" type="text/javascript"></script>
 <script type="text/javascript">
     $(document).ready(function() {
         // the body of this function is in assets/js/now-ui-kit.js
