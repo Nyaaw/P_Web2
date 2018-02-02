@@ -8,7 +8,7 @@
 ?>
 
 <!-- Navbar -->
-<nav class="navbar navbar-expand-lg bg-primary fixed-top">
+<nav class="navbar bg-dark navbar-expand-lg fixed-top">
     <div class="container">
         <div class="navbar-translate">
             <a class="navbar-brand" href="../Accueil.php" rel="tooltip" data-placement="right" data-original-title="Retour à l'accueil">
@@ -29,9 +29,9 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-neutral" href="https://www.creative-tim.com/product/now-ui-kit-pro" target="_blank">
-                        <i class="now-ui-icons arrows-1_share-66"></i>
-                        <p>Upgrade to PRO</p>
+                    <a class="nav-link btn btn-light" href="https://www.creative-tim.com/product/now-ui-kit-pro" target="_blank">
+                        <i class="now-ui-icons users_single-02"></i>
+                        <p>Inscrivez-vous !</p>
                     </a>
                 </li>
                 <li class="nav-item">
@@ -39,6 +39,9 @@
                         <i class="fa fa-twitter"></i>
                         <p class="d-lg-none d-xl-none">Twitter</p>
                     </a>
+                </li>
+                <li class="nav">
+
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/CreativeTim" target="_blank">
