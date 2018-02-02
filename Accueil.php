@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bonjour</title>
+    <title>Accueil</title>
     <?php include "inhead.php" ?>
 </head>
 
