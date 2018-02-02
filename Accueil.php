@@ -17,7 +17,7 @@
     <body>
         <div class="wrapper">
             <div class="page-header clear-filter">
-                <div class="page-header-image" data-parallax="true" style="background-image: url('./assets/img/img_fond.JPG');">
+                <div class="page-header-image" data-parallax="true" style="background-image: url('./assets/img/img_fond_noir.jpg');">
 
                 </div>
                 <div class="container">
@@ -29,11 +29,13 @@
                 </div>
             </div>
         </div>
-        <div class="section" id="carousel">
+        <div class="section index neverpadding" id="carousel">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-8">
-                        <div></div>
+                    <div class="col-12">
+                        <h1 class="subtitle">
+                            Les 5 livres de la semaine !
+                        </h1>
                         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>

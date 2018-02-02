@@ -17,3 +17,4 @@
 <!-- CSS Files -->
 <link href="./assets/css/bootstrap.min.css" rel="stylesheet" />
 <link href="./assets/css/now-ui-kit.css?v=1.1.0" rel="stylesheet" />
+<link href="./assets/css/style.css?" rel="stylesheet" />
