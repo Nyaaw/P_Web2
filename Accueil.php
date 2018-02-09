@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Accueil</title>
-    <?php include "inhead.php" ?>
+    <?php include "includes/inhead.php" ?>
     <?php include "includes/header.php" ?>
 </head>
 
@@ -67,7 +67,7 @@
                 </div>
             </div>
         </div>
-        <?php include("script.php") ?>
+        <?php include("includes/script.php") ?>
     </body>
 
 
