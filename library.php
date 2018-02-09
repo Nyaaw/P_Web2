@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Liste des livres</title>
-        <?php include "inhead.php" ?>
+        <?php include "includes/inhead.php" ?>
         <?php include "includes/header.php" ?>
         <?php
         /**
@@ -21,51 +21,137 @@
                 <div class="container">
                     <div class="content-center">
                         <h1 class="title">Liste de livres</h1>
-                        <div class="text-center">
-                            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-                                <i class="fa fa-facebook-square"></i>
-                            </a>
-                            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-                                <i class="fa fa-google-plus"></i>
-                            </a>
-                        </div>
                     </div>
                 </div>
             </div>
             <!-- Liste des livres -->
-            <div class="row paddingrow">
-                <div class="col-md-3">
-                    <div class="cardbook">
-                        <img src="assets/img/img1.png" alt="Thumbnail Image">
-                        <h4 class="booktitle title">Titre du livre</h4>
-                        <p class="category text-primary booktitle">Auteur</p>
+            <div class="bookcategory">
+                <h1>Roman</h1>
+                <div class="row paddingrow">
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/ryan.jpg" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/large.png" alt="Thumbnail Image" class="img-responsive imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/haut.png" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/ryan.jpg" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="cardbook">
-                        <img src="assets/img/img1.png" alt="Thumbnail Image">
-                        <h4 class="booktitle title">Titre du livre</h4>
-                        <p class="category text-primary booktitle">Auteur</p>
+                <div class="row paddingrow">
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/ryan.jpg" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/large.png" alt="Thumbnail Image" class="img-responsive imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/haut.png" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/ryan.jpg" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="cardbook">
-                        <img src="assets/img/img1.png" alt="Thumbnail Image">
-                        <h4 class="booktitle title">Titre du livre</h4>
-                        <p class="category text-primary booktitle">Auteur</p>
+                <button class="btn btn-primary btn-round btn-lg" type="button">Voir plus</button>
+            </div>
+            <div class="bookcategory">
+                <h1>Science-fiction</h1>
+                <div class="row paddingrow">
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/ryan.jpg" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/large.png" alt="Thumbnail Image" class="img-responsive imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/haut.png" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/ryan.jpg" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="cardbook">
-                        <img src="assets/img/img1.png" alt="Thumbnail Image">
-                        <h4 class="booktitle title">Titre du livre</h4>
-                        <p class="category text-primary booktitle">Auteur</p>
+                <div class="row paddingrow">
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/ryan.jpg" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/large.png" alt="Thumbnail Image" class="img-responsive imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/haut.png" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="cardbook">
+                            <img src="assets/img/ryan.jpg" alt="Thumbnail Image" class="imgcardbook">
+                            <h4 class="booktitle title">Titre du livre</h4>
+                            <p class="category text-primary booktitle">Auteur</p>
+                        </div>
                     </div>
                 </div>
             </div>
-        <?php include("script.php") ?>
+        <?php include("includes/script.php") ?>
     </body>
 </html>

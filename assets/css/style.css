@@ -19,12 +19,26 @@
 .cardbook{
     border: solid 3px grey;
     text-align: center;
+    background-color: white;
 }
 .textshadow{
     text-shadow: 1px 3px 8px rgba(0, 0, 0, 1);
 }
 .paddingrow{
-    padding-right: 30px;
-    padding-left: 30px;
-    padding-top: 30px;
+    padding: 30px;
+}
+.imgcardbook{
+    border-bottom: 3px solid grey;
+    width: 100%;
+    height: 400px;
+}
+.bookcategory{
+    border: 1px solid black;
+    margin: 30px;
+    background-color: ghostwhite;
+}
+.bookcategory h1{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 0;
 }
