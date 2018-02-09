@@ -11,7 +11,7 @@
 <nav class="navbar bg-dark navbar-expand-lg fixed-top">
     <div class="container">
         <div class="navbar-translate">
-            <a class="navbar-brand" href="../Accueil.php" rel="tooltip" data-placement="right" data-original-title="Retour à l'accueil">
+            <a class="navbar-brand font-weight-bold" href="../Accueil.php" rel="tooltip" data-placement="bottom" data-original-title="Retour à l'accueil">
                 Passion Lecture
             </a>
 
@@ -23,11 +23,11 @@
         </div>
         <div class="collapse navbar-collapse justify-content-end">
             <ul class="navbar-nav">
-                <li class="nav-link">
-                    <a class="nav-link btn btn-dark" href="">Liste des livres</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="">Liste des livres</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-light" href="https://www.creative-tim.com/product/now-ui-kit-pro" target="_blank">
+                    <a class=" nav-link btn btn-neutral" href="" target="_blank">
                         <i class="now-ui-icons users_single-02"></i>
                         <p>Inscrivez-vous !</p>
                     </a>
