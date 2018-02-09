@@ -3,6 +3,7 @@
 <head>
     <title>Accueil</title>
     <?php include "inhead.php" ?>
+    <?php include "includes/header.php" ?>
 </head>
 
 <?php
@@ -17,14 +18,14 @@
     <body>
         <div class="wrapper">
             <div class="page-header clear-filter">
-                <div class="page-header-image" data-parallax="true" style="background-image: url('./assets/img/img_fond_noir.jpg');">
+                <div class="page-header-image" data-parallax="true" style="background-image: url('./assets/img/imgFondAccueil.jpg');">
 
                 </div>
                 <div class="container">
                     <div class="content-center brand">
                         <img class="n-logo" src="./assets/img/now-logo.png">
-                        <h1 class="h1-seo h1title">Passion lecture</h1>
-                        <h2>Un site pour les fans de littératures en tout genre et rédacteurs à mi-temps.</h2>
+                        <h1 class="h1-seo h1title textshadow">Passion lecture</h1>
+                        <h2 class="textshadow">Un site pour les fans de littératures en tout genre et rédacteurs à mi-temps.</h2>
                     </div>
                 </div>
             </div>

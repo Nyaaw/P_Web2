@@ -1,5 +1,5 @@
 .section.index{
-    background-color: #1d2124 ;
+    background-color: snow ;
 }
 
 .subtitle{
@@ -13,14 +13,14 @@
     padding-bottom: 100px;
 }
 .booktitle{
-    text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
+    border-top: solid 3px grey;
 }
 .cardbook{
     border: solid 3px grey;
+    text-align: center;
 }
-.imgbook{
-    width: 100%;
-    border-bottom: solid 3px grey;
+.textshadow{
+    text-shadow: 1px 3px 8px rgba(0, 0, 0, 1);
 }
