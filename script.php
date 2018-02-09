@@ -1,9 +1,9 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: rossetlo
+ * ETML
+ * Auteur: rossetlo
  * Date: 19.01.2018
- * Time: 10:45
+ * Description : Regroupe tous les scripts des pages bootstrap pour devoir juste include une fois.
  */
 ?>
 <!--   Core JS Files   -->
