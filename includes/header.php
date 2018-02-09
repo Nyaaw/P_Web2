@@ -1,9 +1,9 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: ripollpi
+ * ETML
+ * Auteur : Pierric Ripoll
  * Date: 26.01.2018
- * Time: 11:17
+ * Description : fichier à include dans les pages du site au début du body pour la navbar.
  */
 ?>
 
