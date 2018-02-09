@@ -36,11 +36,34 @@
                 </div>
             </div>
             <!-- Liste des livres -->
-            <div class="col-md-3">
-                <div class="cardbook">
-                    <img src="assets/img/img1.png" alt="Thumbnail Image">
-                    <h4 class="booktitle title">Titre du livre</h4>
-                    <p class="category text-primary booktitle">Auteur</p>
+            <div class="row paddingrow">
+                <div class="col-md-3">
+                    <div class="cardbook">
+                        <img src="assets/img/img1.png" alt="Thumbnail Image">
+                        <h4 class="booktitle title">Titre du livre</h4>
+                        <p class="category text-primary booktitle">Auteur</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="cardbook">
+                        <img src="assets/img/img1.png" alt="Thumbnail Image">
+                        <h4 class="booktitle title">Titre du livre</h4>
+                        <p class="category text-primary booktitle">Auteur</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="cardbook">
+                        <img src="assets/img/img1.png" alt="Thumbnail Image">
+                        <h4 class="booktitle title">Titre du livre</h4>
+                        <p class="category text-primary booktitle">Auteur</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="cardbook">
+                        <img src="assets/img/img1.png" alt="Thumbnail Image">
+                        <h4 class="booktitle title">Titre du livre</h4>
+                        <p class="category text-primary booktitle">Auteur</p>
+                    </div>
                 </div>
             </div>
         <?php include("script.php") ?>
