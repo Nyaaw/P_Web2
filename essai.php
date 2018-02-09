@@ -1,9 +1,9 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: ripollpi
+ * ETML
+ * Auteur : Pierric Ripoll
  * Date: 26.01.2018
- * Time: 10:30
+ * Description : essai
  */
 ?>
 
@@ -11,10 +11,10 @@
 <html lang="fr">
 <head>
     <title>essai</title>
-    <?php include"inhead.php" ?>
+    <?php include"includes/inhead.php" ?>
 </head>
 <body class="sidebar-collapse">
 <?php include "includes/header.php" ?>
-<?php include"script.php" ?>
+<?php include"includes/script.php" ?>
 </body>
 </html>

@@ -11,15 +11,19 @@ echo '<html lang="fr">
 ';
 echo "<head>
 ";
-include('inhead.php');
+include('includes/inhead.php');
 echo "
 </head>
 ";
 
-echo "<body class=\"index-page sidebar-collapse\">
+echo "<body class=\"index-page sidebar-collapse\">";
 
-include('script.php');
 
-</body>";
+
+include 'includes/header.php';
+
+include('includes/script.php');
+
+echo "</body>";
 
 echo '</html>';
