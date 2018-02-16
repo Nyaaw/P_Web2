@@ -1,31 +1,21 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Accueil</title>
-    <?php include "includes/inhead.php" ?>
-    <?php include "includes/header.php" ?>
-</head>
-
-<?php
-/**
- * ETML
- * Auteur: rossetlo
- * Date: 26.01.2018
- * Description:
- */
-?>
-
+    <head>
+        <title>Accueil</title>
+        <?php include "../includes/inhead.php" ?>
+        <?php include "../includes/header.php" ?>
+    </head>
     <body>
         <div class="wrapper">
             <div class="page-header clear-filter">
-                <div class="page-header-image" data-parallax="true" style="background-image: url('./assets/img/imgFondAccueil.jpg');">
+                <div class="page-header-image" data-parallax="true" style="background-image: url('../assets/img/imgFondAccueil.jpg');">
 
                 </div>
                 <div class="container">
                     <div class="content-center brand">
-                        <img class="n-logo" src="./assets/img/now-logo.png">
+                        <img class="n-logo" src="../assets/img/now-logo.png" alt="Logo">
                         <h1 class="h1-seo h1title textshadow">Passion lecture</h1>
-                        <h2 class="textshadow">Un site pour les fans de littératures en tout genre et rédacteurs à mi-temps.</h2>
+                        <h2 class="textshadow">Un site de publication, d'évaluation et de recherche de livres</h2>
                     </div>
                 </div>
             </div>
@@ -45,13 +35,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img class="d-block w-100" src="assets/img/ryan.jpg" alt="First slide">
+                                    <img class="d-block w-100" src="../assets/img/ryan.jpg" alt="First slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="assets/img/ryan.jpg" alt="Second slide">
+                                    <img class="d-block w-100" src="../assets/img/ryan.jpg" alt="Second slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="assets/img/avatar.jpg" alt="Third slide">
+                                    <img class="d-block w-100" src="../assets/img/avatar.jpg" alt="Third slide">
                                 </div>
                             </div>
                             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -67,8 +57,6 @@
                 </div>
             </div>
         </div>
-        <?php include("includes/script.php") ?>
+        <?php include("../includes/script.php") ?>
     </body>
-
-
 </html>

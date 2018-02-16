@@ -67,3 +67,14 @@
 .btnMargin{
     margin-bottom: 30px;
 }
+
+.textLeft{
+    margin-bottom: 0;
+}
+
+/*Situe le texte à gauche de l'image*/
+@media screen and (max-width: 991px){
+    .textLeft{
+        text-align: left;
+    }
+}

@@ -51,7 +51,7 @@
 <nav class="navbar bg-dark navbar-expand-lg fixed-top">
     <div class="container">
         <div class="navbar-translate">
-            <a class="navbar-brand font-weight-bold" href="../Accueil.php" rel="tooltip" data-placement="bottom" data-original-title="Retour à l'accueil">
+            <a class="navbar-brand font-weight-bold" href="../View/Accueil.php" rel="tooltip" data-placement="bottom" data-original-title="Retour à l'accueil">
                 Passion Lecture
             </a>
 

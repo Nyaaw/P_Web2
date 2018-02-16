@@ -11,7 +11,7 @@ echo '<html lang="fr">
 ';
 echo "<head>
 ";
-include('includes/inhead.php');
+include('../includes/inhead.php');
 echo "
 </head>
 ";
@@ -20,9 +20,9 @@ echo "<body class=\"index-page sidebar-collapse\">";
 
 
 
-include 'includes/header.php';
+include '../includes/header.php';
 
-include('includes/script.php');
+include('../includes/script.php');
 
 echo "</body>";
 
