@@ -15,9 +15,7 @@
     </head>
     <body class="landing-page sidebar-collapse">
         <div class="wrapper">
-            <div class="page-header page-header-small">
-                <div class="page-header-image" data-parallax="true" style="background-image: url('../assets/img/bg6.jpg');">
-                </div>
+            <div class="page-header page-header-small library-header">
                 <div class="container">
                     <div class="content-center">
                         <h1 class="title">Liste de livres</h1>
@@ -87,7 +85,7 @@
                         </div>
                     </div>
                 </div>
-                <button class="btn btn-primary btn-round btn-lg" type="button">Voir plus</button>
+                <button class="btn btn-primary btn-round btn-lg btnMargin" type="button">Voir plus</button>
             </div>
             <div class="bookcategory">
                 <h1>Science-fiction</h1>

@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Accueil</title>
-    <?php include "inhead.php" ?>
+    <?php include "includes/inhead.php" ?>
     <?php include "includes/header.php" ?>
 </head>
 
@@ -48,7 +48,7 @@
                                     <img class="d-block w-100" src="assets/img/ryan.jpg" alt="First slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="assets/img/eva.jpg" alt="Second slide">
+                                    <img class="d-block w-100" src="assets/img/ryan.jpg" alt="Second slide">
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block w-100" src="assets/img/avatar.jpg" alt="Third slide">
@@ -67,7 +67,7 @@
                 </div>
             </div>
         </div>
-        <?php include("script.php") ?>
+        <?php include("includes/script.php") ?>
     </body>
 
 

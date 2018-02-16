@@ -36,9 +36,34 @@
     border: 1px solid black;
     margin: 30px;
     background-color: ghostwhite;
+    text-align: center;
 }
 .bookcategory h1{
-    text-align: center;
     margin-top: 15px;
     margin-bottom: 0;
+}
+/*Image de fond de la page library*/
+.library-header{
+    background-image: url("../img/libraryBG.jpg");
+}
+
+/*Utilisé pour centrer le contenu de la page book.php*/
+.bookCentered{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Classe qui englobe tout le contenu du livre de la page book.php*/
+.bookDiv{
+    margin-top: 120px;
+}
+/*Retire les puces des listes à puces*/
+.noPuce{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/*Marge pour le bouton evaluer de la page book*/
+.btnMargin{
+    margin-bottom: 30px;
 }
