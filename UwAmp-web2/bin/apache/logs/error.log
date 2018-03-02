@@ -1,0 +1,504 @@
+[Wed Jan 17 11:02:49.455914 2018] [ssl:warn] [pid 6120:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jan 17 11:02:49.455914 2018] [ssl:warn] [pid 6120:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 17 11:02:49.689904 2018] [ssl:warn] [pid 6120:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 17 11:02:49.705503 2018] [ssl:warn] [pid 6120:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jan 17 11:02:49.705503 2018] [ssl:warn] [pid 6120:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 17 11:02:49.877095 2018] [mpm_winnt:notice] [pid 6120:tid 328] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Jan 17 11:02:49.877095 2018] [mpm_winnt:notice] [pid 6120:tid 328] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Jan 17 11:02:49.877095 2018] [core:notice] [pid 6120:tid 328] AH00094: Command line: 'F:\\Deuxieme annee\\Outil\\UwAmp\\bin\\apache\\bin\\httpd.exe -d F:/Deuxieme annee/Outil/UwAmp/bin/apache -f F:\\Deuxieme annee\\Outil\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Jan 17 11:02:49.892695 2018] [mpm_winnt:notice] [pid 6120:tid 328] AH00418: Parent: Created child process 5084
+[Wed Jan 17 11:02:50.501067 2018] [ssl:warn] [pid 5084:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jan 17 11:02:50.501067 2018] [ssl:warn] [pid 5084:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 17 11:02:50.688259 2018] [ssl:warn] [pid 5084:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 17 11:02:50.688259 2018] [ssl:warn] [pid 5084:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jan 17 11:02:50.688259 2018] [ssl:warn] [pid 5084:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 17 11:02:50.719458 2018] [mpm_winnt:notice] [pid 5084:tid 328] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 17 11:05:45.763430 2018] [mpm_winnt:crit] [pid 5084:tid 328] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Jan 17 11:05:45.763430 2018] [mpm_winnt:warn] [pid 5084:tid 520] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jan 17 11:05:45.763430 2018] [mpm_winnt:warn] [pid 5084:tid 516] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jan 17 11:05:45.763430 2018] [mpm_winnt:warn] [pid 5084:tid 4] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jan 17 11:05:45.763430 2018] [mpm_winnt:warn] [pid 5084:tid 508] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jan 17 11:06:56.041677 2018] [ssl:warn] [pid 9628:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jan 17 11:06:56.041677 2018] [ssl:warn] [pid 9628:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 17 11:06:56.260067 2018] [core:warn] [pid 9628:tid 316] AH00098: pid file F:/Deuxieme annee/Module 133/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 17 11:06:56.416060 2018] [ssl:warn] [pid 9628:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 17 11:06:56.431659 2018] [ssl:warn] [pid 9628:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jan 17 11:06:56.431659 2018] [ssl:warn] [pid 9628:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 17 11:06:56.837241 2018] [mpm_winnt:notice] [pid 9628:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Jan 17 11:06:56.837241 2018] [mpm_winnt:notice] [pid 9628:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Jan 17 11:06:56.837241 2018] [core:notice] [pid 9628:tid 316] AH00094: Command line: 'F:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\bin\\httpd.exe -d F:/Deuxieme annee/Module 133/UwAmp/bin/apache -f F:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Jan 17 11:06:56.852840 2018] [mpm_winnt:notice] [pid 9628:tid 316] AH00418: Parent: Created child process 9000
+[Wed Jan 17 11:06:57.648405 2018] [ssl:warn] [pid 9000:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jan 17 11:06:57.648405 2018] [ssl:warn] [pid 9000:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 17 11:06:58.022788 2018] [ssl:warn] [pid 9000:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 17 11:06:58.022788 2018] [ssl:warn] [pid 9000:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jan 17 11:06:58.022788 2018] [ssl:warn] [pid 9000:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 17 11:06:58.256777 2018] [mpm_winnt:notice] [pid 9000:tid 328] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 17 11:21:29.262563 2018] [:error] [pid 9000:tid 1064] [client ::1:51541] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php on line 9, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.516468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php on line 8, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.516468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Stack trace:, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.516468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php:0, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.516468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php on line 8, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.516468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Stack trace:, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.516468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php:0, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.517468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php on line 8, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.517468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Stack trace:, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.517468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php:0, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.517468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php on line 8, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.517468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Stack trace:, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.517468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php:0, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:21:57.517468 2018] [:error] [pid 9000:tid 1064] [client ::1:51546] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex1\\ex1Welcome.php on line 9, referer: http://localhost:8080/Ex1/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:48.057115 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:33:50.483681 2018] [:error] [pid 9000:tid 1048] [client ::1:51725] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.273860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.273860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.273860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.273860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.273860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.273860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.274860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.274860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.274860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.274860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.274860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.275860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:24.275860 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.118042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.118042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.118042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.118042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.118042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.118042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.119042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.119042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.119042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.119042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.119042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.119042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.119042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.340042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.340042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.340042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.340042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.340042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.340042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.341042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.341042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.342042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.342042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.342042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.342042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:34:25.342042 2018] [:error] [pid 9000:tid 1040] [client ::1:51734] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.922412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.923412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:16.924412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.430412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.430412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.430412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.430412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.430412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.430412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.431412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.431412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.431412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.431412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.431412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.431412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:17.431412 2018] [:error] [pid 9000:tid 1048] [client ::1:51740] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.661302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.661302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.661302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.661302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.661302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.661302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.662302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.662302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.662302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.662302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.662302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.662302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:26.663302 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Notice:  Use of undefined constant Message - assumed 'Message' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Notice:  Use of undefined constant php - assumed 'php' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Warning:  include(Messagephp): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Warning:  include(): Failed opening 'Messagephp' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:28.438082 2018] [:error] [pid 9000:tid 1048] [client ::1:51742] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:50.208926 2018] [:error] [pid 9000:tid 1048] [client ::1:51745] PHP Warning:  include(Message.php): failed to open stream: No such file or directory in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:50.208926 2018] [:error] [pid 9000:tid 1048] [client ::1:51745] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:50.208926 2018] [:error] [pid 9000:tid 1048] [client ::1:51745] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:50.209926 2018] [:error] [pid 9000:tid 1048] [client ::1:51745] PHP Warning:  include(): Failed opening 'Message.php' for inclusion (include_path='.;C:\\php\\pear') in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 8, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:50.209926 2018] [:error] [pid 9000:tid 1048] [client ::1:51745] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:50.209926 2018] [:error] [pid 9000:tid 1048] [client ::1:51745] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:35:50.209926 2018] [:error] [pid 9000:tid 1048] [client ::1:51745] PHP Fatal error:  Uncaught Error: Class 'Message' not found in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:9\nStack trace:\n#0 {main}\n  thrown in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 9, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:33.535513 2018] [:error] [pid 9000:tid 1048] [client ::1:51747] PHP Warning:  Missing argument 1 for Message::displaySentence(), called in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 11 and defined in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Message.php on line 34, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:33.535513 2018] [:error] [pid 9000:tid 1048] [client ::1:51747] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:33.535513 2018] [:error] [pid 9000:tid 1048] [client ::1:51747] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:33.535513 2018] [:error] [pid 9000:tid 1048] [client ::1:51747] PHP   2. Message->displaySentence() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:11, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:33.535513 2018] [:error] [pid 9000:tid 1048] [client ::1:51747] PHP Notice:  Undefined variable: text in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Message.php on line 35, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:33.535513 2018] [:error] [pid 9000:tid 1048] [client ::1:51747] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:33.535513 2018] [:error] [pid 9000:tid 1048] [client ::1:51747] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:33.535513 2018] [:error] [pid 9000:tid 1048] [client ::1:51747] PHP   2. Message->displaySentence() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:11, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:54.229051 2018] [:error] [pid 9000:tid 1048] [client ::1:51748] PHP Warning:  Missing argument 1 for Message::displaySentence(), called in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 11 and defined in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Message.php on line 34, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:54.229051 2018] [:error] [pid 9000:tid 1048] [client ::1:51748] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:54.229051 2018] [:error] [pid 9000:tid 1048] [client ::1:51748] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:54.229051 2018] [:error] [pid 9000:tid 1048] [client ::1:51748] PHP   2. Message->displaySentence() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:11, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:54.229051 2018] [:error] [pid 9000:tid 1048] [client ::1:51748] PHP Notice:  Undefined variable: text in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Message.php on line 35, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:54.229051 2018] [:error] [pid 9000:tid 1048] [client ::1:51748] PHP Stack trace:, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:54.229051 2018] [:error] [pid 9000:tid 1048] [client ::1:51748] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:0, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:36:54.229051 2018] [:error] [pid 9000:tid 1048] [client ::1:51748] PHP   2. Message->displaySentence() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php:11, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:43:55.346376 2018] [:error] [pid 9000:tid 1056] [client ::1:51785] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING), expecting ',' or ')' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 12, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:43:55.619967 2018] [:error] [pid 9000:tid 1056] [client ::1:51785] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING), expecting ',' or ')' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 12, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 11:43:56.287336 2018] [:error] [pid 9000:tid 1056] [client ::1:51785] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING), expecting ',' or ')' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex2\\ex2VariousInfo.php on line 12, referer: http://localhost:8080/Ex2/
+[Wed Jan 17 12:03:08.782181 2018] [:error] [pid 9000:tid 1056] [client ::1:52298] PHP Parse error:  syntax error, unexpected end of file in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php on line 17, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:03:46.451958 2018] [:error] [pid 9000:tid 1056] [client ::1:52302] PHP Notice:  Undefined variable: PINUMBER in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php on line 16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:03:46.451958 2018] [:error] [pid 9000:tid 1056] [client ::1:52302] PHP Stack trace:, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:03:46.451958 2018] [:error] [pid 9000:tid 1056] [client ::1:52302] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:0, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:05:38.200787 2018] [:error] [pid 9000:tid 1056] [client ::1:52309] PHP Notice:  Use of undefined constant diametre - assumed 'diametre' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Math.php on line 16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:05:38.200787 2018] [:error] [pid 9000:tid 1056] [client ::1:52309] PHP Stack trace:, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:05:38.200787 2018] [:error] [pid 9000:tid 1056] [client ::1:52309] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:0, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:05:38.200787 2018] [:error] [pid 9000:tid 1056] [client ::1:52309] PHP   2. Math->sum() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:05:38.200787 2018] [:error] [pid 9000:tid 1056] [client ::1:52309] PHP Notice:  Use of undefined constant pi - assumed 'pi' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Math.php on line 16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:05:38.201787 2018] [:error] [pid 9000:tid 1056] [client ::1:52309] PHP Stack trace:, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:05:38.201787 2018] [:error] [pid 9000:tid 1056] [client ::1:52309] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:0, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:05:38.201787 2018] [:error] [pid 9000:tid 1056] [client ::1:52309] PHP   2. Math->sum() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:06:00.552622 2018] [:error] [pid 9000:tid 1056] [client ::1:52311] PHP Notice:  Use of undefined constant diametre - assumed 'diametre' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Math.php on line 16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:06:00.552622 2018] [:error] [pid 9000:tid 1056] [client ::1:52311] PHP Stack trace:, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:06:00.552622 2018] [:error] [pid 9000:tid 1056] [client ::1:52311] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:0, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:06:00.552622 2018] [:error] [pid 9000:tid 1056] [client ::1:52311] PHP   2. Math->sum() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:06:00.552622 2018] [:error] [pid 9000:tid 1056] [client ::1:52311] PHP Notice:  Use of undefined constant pi - assumed 'pi' in F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Math.php on line 16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:06:00.552622 2018] [:error] [pid 9000:tid 1056] [client ::1:52311] PHP Stack trace:, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:06:00.552622 2018] [:error] [pid 9000:tid 1056] [client ::1:52311] PHP   1. {main}() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:0, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:06:00.552622 2018] [:error] [pid 9000:tid 1056] [client ::1:52311] PHP   2. Math->sum() F:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex3\\ex3Earth.php:16, referer: http://localhost:8080/Ex3/
+[Wed Jan 17 12:10:40.756245 2018] [mpm_winnt:notice] [pid 9628:tid 316] AH00428: Parent: child process 9000 exited with status 1073807364 -- Restarting.
+[Thu Jan 18 19:30:59.676346 2018] [ssl:warn] [pid 2612:tid 652] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:30:59.680344 2018] [ssl:warn] [pid 2612:tid 652] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:30:59.848353 2018] [core:warn] [pid 2612:tid 652] AH00098: pid file G:/Deuxieme annee/Module 133/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 18 19:30:59.965249 2018] [ssl:warn] [pid 2612:tid 652] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 18 19:30:59.965249 2018] [ssl:warn] [pid 2612:tid 652] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:30:59.965249 2018] [ssl:warn] [pid 2612:tid 652] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:31:00.575675 2018] [mpm_winnt:notice] [pid 2612:tid 652] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Thu Jan 18 19:31:00.575675 2018] [mpm_winnt:notice] [pid 2612:tid 652] AH00456: Server built: Jan 28 2016 09:58:25
+[Thu Jan 18 19:31:00.575675 2018] [core:notice] [pid 2612:tid 652] AH00094: Command line: 'G:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\bin\\httpd.exe -d G:/Deuxieme annee/Module 133/UwAmp/bin/apache -f G:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Jan 18 19:31:00.593675 2018] [mpm_winnt:notice] [pid 2612:tid 652] AH00418: Parent: Created child process 1788
+[Thu Jan 18 19:31:00.942447 2018] [ssl:warn] [pid 1788:tid 664] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:31:00.942947 2018] [ssl:warn] [pid 1788:tid 664] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:31:01.031034 2018] [ssl:warn] [pid 1788:tid 664] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 18 19:31:01.031034 2018] [ssl:warn] [pid 1788:tid 664] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:31:01.031034 2018] [ssl:warn] [pid 1788:tid 664] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:31:01.061112 2018] [mpm_winnt:notice] [pid 1788:tid 664] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 18 19:31:08.958850 2018] [mpm_winnt:crit] [pid 1788:tid 664] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 18 19:31:11.371260 2018] [ssl:warn] [pid 19032:tid 676] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:31:11.372761 2018] [ssl:warn] [pid 19032:tid 676] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:31:11.403780 2018] [core:warn] [pid 19032:tid 676] AH00098: pid file G:/Deuxieme annee/Module 133/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 18 19:31:11.492279 2018] [ssl:warn] [pid 19032:tid 676] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 18 19:31:11.492780 2018] [ssl:warn] [pid 19032:tid 676] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:31:11.492780 2018] [ssl:warn] [pid 19032:tid 676] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:31:11.507278 2018] [mpm_winnt:notice] [pid 19032:tid 676] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Thu Jan 18 19:31:11.507278 2018] [mpm_winnt:notice] [pid 19032:tid 676] AH00456: Server built: Jan 28 2016 09:58:25
+[Thu Jan 18 19:31:11.507278 2018] [core:notice] [pid 19032:tid 676] AH00094: Command line: 'G:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\bin\\httpd.exe -d G:/Deuxieme annee/Module 133/UwAmp/bin/apache -f G:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Jan 18 19:31:11.523826 2018] [mpm_winnt:notice] [pid 19032:tid 676] AH00418: Parent: Created child process 7440
+[Thu Jan 18 19:31:11.862866 2018] [ssl:warn] [pid 7440:tid 652] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:31:11.863366 2018] [ssl:warn] [pid 7440:tid 652] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:31:11.952374 2018] [ssl:warn] [pid 7440:tid 652] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 18 19:31:11.952871 2018] [ssl:warn] [pid 7440:tid 652] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:31:11.952871 2018] [ssl:warn] [pid 7440:tid 652] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:31:11.967342 2018] [mpm_winnt:notice] [pid 7440:tid 652] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 18 19:43:49.065629 2018] [mpm_winnt:crit] [pid 7440:tid 652] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 18 19:43:54.472406 2018] [ssl:warn] [pid 13904:tid 652] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:43:54.473405 2018] [ssl:warn] [pid 13904:tid 652] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:43:54.501406 2018] [core:warn] [pid 13904:tid 652] AH00098: pid file G:/Deuxieme annee/Module 133/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 18 19:43:54.598405 2018] [ssl:warn] [pid 13904:tid 652] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 18 19:43:54.598405 2018] [ssl:warn] [pid 13904:tid 652] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:43:54.598905 2018] [ssl:warn] [pid 13904:tid 652] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:43:54.613405 2018] [mpm_winnt:notice] [pid 13904:tid 652] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Thu Jan 18 19:43:54.613405 2018] [mpm_winnt:notice] [pid 13904:tid 652] AH00456: Server built: Jan 28 2016 09:58:25
+[Thu Jan 18 19:43:54.613405 2018] [core:notice] [pid 13904:tid 652] AH00094: Command line: 'G:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\bin\\httpd.exe -d G:/Deuxieme annee/Module 133/UwAmp/bin/apache -f G:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Jan 18 19:43:54.629906 2018] [mpm_winnt:notice] [pid 13904:tid 652] AH00418: Parent: Created child process 2096
+[Thu Jan 18 19:43:54.971404 2018] [ssl:warn] [pid 2096:tid 656] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:43:54.971905 2018] [ssl:warn] [pid 2096:tid 656] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:43:55.067407 2018] [ssl:warn] [pid 2096:tid 656] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 18 19:43:55.067908 2018] [ssl:warn] [pid 2096:tid 656] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jan 18 19:43:55.067908 2018] [ssl:warn] [pid 2096:tid 656] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 18 19:43:55.082909 2018] [mpm_winnt:notice] [pid 2096:tid 656] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP Notice:  Use of undefined constant ex6header - assumed 'ex6header' in G:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex6\\ex6example.php on line 8, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP Stack trace:, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP   1. {main}() G:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex6\\ex6example.php:0, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP Notice:  Use of undefined constant php - assumed 'php' in G:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex6\\ex6example.php on line 8, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP Stack trace:, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP   1. {main}() G:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex6\\ex6example.php:0, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP Warning:  include(ex6headerphp): failed to open stream: No such file or directory in G:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex6\\ex6example.php on line 8, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP Stack trace:, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP   1. {main}() G:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex6\\ex6example.php:0, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP Warning:  include(): Failed opening 'ex6headerphp' for inclusion (include_path='.;C:\\php\\pear') in G:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex6\\ex6example.php on line 8, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP Stack trace:, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 19:53:57.653775 2018] [:error] [pid 2096:tid 1392] [client ::1:61233] PHP   1. {main}() G:\\Deuxieme annee\\Module 133\\UwAmp\\www\\Ex6\\ex6example.php:0, referer: http://localhost:8080/Ex6/
+[Thu Jan 18 21:08:13.686392 2018] [mpm_winnt:crit] [pid 2096:tid 656] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 19 09:59:44.796947 2018] [ssl:warn] [pid 3344:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 09:59:44.796947 2018] [ssl:warn] [pid 3344:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 09:59:44.829947 2018] [core:warn] [pid 3344:tid 316] AH00098: pid file F:/Deuxieme annee/Module 133/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 19 09:59:44.988947 2018] [ssl:warn] [pid 3344:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 19 09:59:44.989947 2018] [ssl:warn] [pid 3344:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 09:59:44.989947 2018] [ssl:warn] [pid 3344:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 09:59:45.325947 2018] [mpm_winnt:notice] [pid 3344:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Jan 19 09:59:45.325947 2018] [mpm_winnt:notice] [pid 3344:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Jan 19 09:59:45.325947 2018] [core:notice] [pid 3344:tid 316] AH00094: Command line: 'F:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\bin\\httpd.exe -d F:/Deuxieme annee/Module 133/UwAmp/bin/apache -f F:\\Deuxieme annee\\Module 133\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Fri Jan 19 09:59:45.329947 2018] [mpm_winnt:notice] [pid 3344:tid 316] AH00418: Parent: Created child process 4424
+[Fri Jan 19 09:59:45.943947 2018] [ssl:warn] [pid 4424:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 09:59:45.943947 2018] [ssl:warn] [pid 4424:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 09:59:46.130947 2018] [ssl:warn] [pid 4424:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 19 09:59:46.131947 2018] [ssl:warn] [pid 4424:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 09:59:46.131947 2018] [ssl:warn] [pid 4424:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 09:59:46.159947 2018] [mpm_winnt:notice] [pid 4424:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 19 10:25:41.189551 2018] [ssl:warn] [pid 8100:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 10:25:41.189551 2018] [ssl:warn] [pid 8100:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 10:25:41.220749 2018] [core:warn] [pid 8100:tid 316] AH00098: pid file D:/DATA/rossetlo/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 19 10:25:41.376739 2018] [ssl:warn] [pid 8100:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 19 10:25:41.376739 2018] [ssl:warn] [pid 8100:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 10:25:41.376739 2018] [ssl:warn] [pid 8100:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 10:25:41.423536 2018] [mpm_winnt:notice] [pid 8100:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Jan 19 10:25:41.423536 2018] [mpm_winnt:notice] [pid 8100:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Jan 19 10:25:41.423536 2018] [core:notice] [pid 8100:tid 316] AH00094: Command line: 'D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d D:/DATA/rossetlo/UwAmp-web2/bin/apache -f D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Jan 19 10:25:41.423536 2018] [mpm_winnt:notice] [pid 8100:tid 316] AH00418: Parent: Created child process 7652
+[Fri Jan 19 10:25:42.016298 2018] [ssl:warn] [pid 7652:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 10:25:42.016298 2018] [ssl:warn] [pid 7652:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 10:25:42.188887 2018] [ssl:warn] [pid 7652:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 19 10:25:42.188887 2018] [ssl:warn] [pid 7652:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 10:25:42.188887 2018] [ssl:warn] [pid 7652:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 10:25:42.220085 2018] [mpm_winnt:notice] [pid 7652:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 19 10:51:30.664085 2018] [mpm_winnt:crit] [pid 7652:tid 328] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 19 10:51:30.666085 2018] [mpm_winnt:warn] [pid 7652:tid 508] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jan 19 10:51:30.666085 2018] [mpm_winnt:warn] [pid 7652:tid 520] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jan 19 10:51:30.666085 2018] [mpm_winnt:warn] [pid 7652:tid 524] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jan 19 10:51:50.863724 2018] [ssl:warn] [pid 8812:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 10:51:50.863724 2018] [ssl:warn] [pid 8812:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 10:51:50.926121 2018] [core:warn] [pid 8812:tid 316] AH00098: pid file D:/DATA/rossetlo/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 19 10:51:51.051917 2018] [ssl:warn] [pid 8812:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 19 10:51:51.051917 2018] [ssl:warn] [pid 8812:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 10:51:51.051917 2018] [ssl:warn] [pid 8812:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 10:51:51.098715 2018] [mpm_winnt:notice] [pid 8812:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Jan 19 10:51:51.098715 2018] [mpm_winnt:notice] [pid 8812:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Jan 19 10:51:51.098715 2018] [core:notice] [pid 8812:tid 316] AH00094: Command line: 'D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d D:/DATA/rossetlo/UwAmp-web2/bin/apache -f D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Jan 19 10:51:51.114314 2018] [mpm_winnt:notice] [pid 8812:tid 316] AH00418: Parent: Created child process 10964
+[Fri Jan 19 10:51:51.707091 2018] [ssl:warn] [pid 10964:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 10:51:51.707091 2018] [ssl:warn] [pid 10964:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 10:51:51.878685 2018] [ssl:warn] [pid 10964:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 19 10:51:51.878685 2018] [ssl:warn] [pid 10964:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 19 10:51:51.878685 2018] [ssl:warn] [pid 10964:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 19 10:51:51.909884 2018] [mpm_winnt:notice] [pid 10964:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 19 11:22:10.794614 2018] [mpm_winnt:notice] [pid 8812:tid 316] AH00428: Parent: child process 10964 exited with status 1073807364 -- Restarting.
+[Fri Jan 26 08:06:29.747901 2018] [ssl:warn] [pid 5244:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 26 08:06:29.747901 2018] [ssl:warn] [pid 5244:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 08:06:29.821879 2018] [core:warn] [pid 5244:tid 316] AH00098: pid file D:/DATA/rossetlo/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 26 08:06:30.007823 2018] [ssl:warn] [pid 5244:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 26 08:06:30.008823 2018] [ssl:warn] [pid 5244:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 26 08:06:30.008823 2018] [ssl:warn] [pid 5244:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 08:06:30.682621 2018] [mpm_winnt:notice] [pid 5244:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Jan 26 08:06:30.682621 2018] [mpm_winnt:notice] [pid 5244:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Jan 26 08:06:30.682621 2018] [core:notice] [pid 5244:tid 316] AH00094: Command line: 'D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d D:/DATA/rossetlo/UwAmp-web2/bin/apache -f D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Jan 26 08:06:30.824578 2018] [mpm_winnt:notice] [pid 5244:tid 316] AH00418: Parent: Created child process 5456
+[Fri Jan 26 08:06:31.631336 2018] [ssl:warn] [pid 5456:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 26 08:06:31.631336 2018] [ssl:warn] [pid 5456:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 08:06:31.838274 2018] [ssl:warn] [pid 5456:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 26 08:06:31.838274 2018] [ssl:warn] [pid 5456:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jan 26 08:06:31.838274 2018] [ssl:warn] [pid 5456:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 26 08:06:31.871264 2018] [mpm_winnt:notice] [pid 5456:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 26 10:35:09.420336 2018] [core:error] [pid 5456:tid 1100] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:53831] AH00127: Cannot map GET /P_Web2/... HTTP/1.1 to file, referer: http://localhost:8080/P_Web2/Accueil.php?_ijt=g1dvjtif86bb42dgh405f6n70e
+[Fri Jan 26 11:24:09.654487 2018] [mpm_winnt:notice] [pid 5244:tid 316] AH00428: Parent: child process 5456 exited with status 1073807364 -- Restarting.
+[Fri Feb 02 08:00:02.373641 2018] [ssl:warn] [pid 3296:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 08:00:02.389226 2018] [ssl:warn] [pid 3296:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 08:00:02.451563 2018] [core:warn] [pid 3296:tid 316] AH00098: pid file D:/DATA/rossetlo/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 02 08:00:02.607407 2018] [ssl:warn] [pid 3296:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 02 08:00:02.607407 2018] [ssl:warn] [pid 3296:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 08:00:02.607407 2018] [ssl:warn] [pid 3296:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 08:00:03.184030 2018] [mpm_winnt:notice] [pid 3296:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Feb 02 08:00:03.184030 2018] [mpm_winnt:notice] [pid 3296:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Feb 02 08:00:03.184030 2018] [core:notice] [pid 3296:tid 316] AH00094: Command line: 'D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d D:/DATA/rossetlo/UwAmp-web2/bin/apache -f D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Feb 02 08:00:03.184030 2018] [mpm_winnt:notice] [pid 3296:tid 316] AH00418: Parent: Created child process 7160
+[Fri Feb 02 08:00:03.807406 2018] [ssl:warn] [pid 7160:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 08:00:03.807406 2018] [ssl:warn] [pid 7160:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 08:00:03.994419 2018] [ssl:warn] [pid 7160:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 02 08:00:03.994419 2018] [ssl:warn] [pid 7160:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 08:00:03.994419 2018] [ssl:warn] [pid 7160:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 08:00:04.025588 2018] [mpm_winnt:notice] [pid 7160:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 02 08:24:48.010484 2018] [mpm_winnt:crit] [pid 7160:tid 328] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 02 08:24:48.010484 2018] [mpm_winnt:warn] [pid 7160:tid 524] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 02 08:24:48.010484 2018] [mpm_winnt:warn] [pid 7160:tid 520] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 02 08:24:48.010484 2018] [mpm_winnt:warn] [pid 7160:tid 1152] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 02 08:24:48.010484 2018] [mpm_winnt:warn] [pid 7160:tid 4] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 02 08:24:54.398725 2018] [ssl:warn] [pid 7284:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 08:24:54.398725 2018] [ssl:warn] [pid 7284:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 08:24:54.445524 2018] [core:warn] [pid 7284:tid 316] AH00098: pid file D:/DATA/rossetlo/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 02 08:24:54.601520 2018] [ssl:warn] [pid 7284:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 02 08:24:54.601520 2018] [ssl:warn] [pid 7284:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 08:24:54.601520 2018] [ssl:warn] [pid 7284:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 08:24:54.632719 2018] [mpm_winnt:notice] [pid 7284:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Feb 02 08:24:54.632719 2018] [mpm_winnt:notice] [pid 7284:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Feb 02 08:24:54.632719 2018] [core:notice] [pid 7284:tid 316] AH00094: Command line: 'D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d D:/DATA/rossetlo/UwAmp-web2/bin/apache -f D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Feb 02 08:24:54.632719 2018] [mpm_winnt:notice] [pid 7284:tid 316] AH00418: Parent: Created child process 10260
+[Fri Feb 02 08:24:55.629302 2018] [ssl:warn] [pid 10260:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 08:24:55.629302 2018] [ssl:warn] [pid 10260:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 08:24:55.827898 2018] [ssl:warn] [pid 10260:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 02 08:24:55.827898 2018] [ssl:warn] [pid 10260:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 08:24:55.827898 2018] [ssl:warn] [pid 10260:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 08:24:55.859097 2018] [mpm_winnt:notice] [pid 10260:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 02 11:21:35.154646 2018] [mpm_winnt:notice] [pid 7284:tid 316] AH00428: Parent: child process 10260 exited with status 1073807364 -- Restarting.
+[Fri Feb 09 08:51:35.007020 2018] [ssl:warn] [pid 396:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 09 08:51:35.007020 2018] [ssl:warn] [pid 396:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 08:51:35.038217 2018] [core:warn] [pid 396:tid 316] AH00098: pid file D:/DATA/rossetlo/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 09 08:51:35.194200 2018] [ssl:warn] [pid 396:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 09 08:51:35.194200 2018] [ssl:warn] [pid 396:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 09 08:51:35.194200 2018] [ssl:warn] [pid 396:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 08:51:35.474969 2018] [mpm_winnt:notice] [pid 396:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Feb 09 08:51:35.474969 2018] [mpm_winnt:notice] [pid 396:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Feb 09 08:51:35.474969 2018] [core:notice] [pid 396:tid 316] AH00094: Command line: 'D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d D:/DATA/rossetlo/UwAmp-web2/bin/apache -f D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Feb 09 08:51:35.490567 2018] [mpm_winnt:notice] [pid 396:tid 316] AH00418: Parent: Created child process 7252
+[Fri Feb 09 08:51:36.036508 2018] [ssl:warn] [pid 7252:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 09 08:51:36.036508 2018] [ssl:warn] [pid 7252:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 08:51:36.473260 2018] [ssl:warn] [pid 7252:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 09 08:51:36.473260 2018] [ssl:warn] [pid 7252:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 09 08:51:36.473260 2018] [ssl:warn] [pid 7252:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 08:51:36.504457 2018] [mpm_winnt:notice] [pid 7252:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 09 09:04:26.692850 2018] [mpm_winnt:crit] [pid 7252:tid 328] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 09 09:04:26.692850 2018] [mpm_winnt:warn] [pid 7252:tid 508] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 09 09:04:26.692850 2018] [mpm_winnt:warn] [pid 7252:tid 520] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 09 09:04:26.692850 2018] [mpm_winnt:warn] [pid 7252:tid 4] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 09 09:04:26.692850 2018] [mpm_winnt:warn] [pid 7252:tid 524] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 09 09:04:46.528417 2018] [ssl:warn] [pid 6748:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 09 09:04:46.528417 2018] [ssl:warn] [pid 6748:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 09:04:46.584616 2018] [core:warn] [pid 6748:tid 316] AH00098: pid file D:/DATA/rossetlo/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 09 09:04:46.844210 2018] [ssl:warn] [pid 6748:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 09 09:04:46.844210 2018] [ssl:warn] [pid 6748:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 09 09:04:46.844210 2018] [ssl:warn] [pid 6748:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 09:04:46.891009 2018] [mpm_winnt:notice] [pid 6748:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Feb 09 09:04:46.891009 2018] [mpm_winnt:notice] [pid 6748:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Feb 09 09:04:46.891009 2018] [core:notice] [pid 6748:tid 316] AH00094: Command line: 'D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d D:/DATA/rossetlo/UwAmp-web2/bin/apache -f D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Feb 09 09:04:46.891009 2018] [mpm_winnt:notice] [pid 6748:tid 316] AH00418: Parent: Created child process 7892
+[Fri Feb 09 09:04:47.608586 2018] [ssl:warn] [pid 7892:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 09 09:04:47.608586 2018] [ssl:warn] [pid 7892:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 09:04:47.904976 2018] [ssl:warn] [pid 7892:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 09 09:04:47.904976 2018] [ssl:warn] [pid 7892:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 09 09:04:47.904976 2018] [ssl:warn] [pid 7892:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 09:04:47.951775 2018] [mpm_winnt:notice] [pid 7892:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP Warning:  include(inhead.php): failed to open stream: No such file or directory in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\library.php on line 5, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP Stack trace:, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\library.php:0, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP Warning:  include(): Failed opening 'inhead.php' for inclusion (include_path='.;C:\\php\\pear') in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\library.php on line 5, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP Stack trace:, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\library.php:0, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP Warning:  include(script.php): failed to open stream: No such file or directory in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\library.php on line 69, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP Stack trace:, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\library.php:0, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.;C:\\php\\pear') in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\library.php on line 69, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP Stack trace:, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 09:23:52.995881 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:50730] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\library.php:0, referer: http://localhost:8080/P_Web2/
+[Fri Feb 09 11:19:48.915855 2018] [:error] [pid 7892:tid 1060] [client 127.0.0.1:53523] script 'D:/DATA/rossetlo/UwAmp-web2/www/Accueil.php' not found or unable to stat, referer: http://localhost:8080/P_Web2/library.php
+[Fri Feb 09 11:22:33.525696 2018] [mpm_winnt:notice] [pid 6748:tid 316] AH00428: Parent: child process 7892 exited with status 1073807364 -- Restarting.
+[Fri Feb 16 08:05:13.530963 2018] [ssl:warn] [pid 6976:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 16 08:05:13.530963 2018] [ssl:warn] [pid 6976:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 16 08:05:13.640116 2018] [core:warn] [pid 6976:tid 316] AH00098: pid file D:/DATA/rossetlo/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 16 08:05:13.827236 2018] [ssl:warn] [pid 6976:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 16 08:05:13.827236 2018] [ssl:warn] [pid 6976:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 16 08:05:13.827236 2018] [ssl:warn] [pid 6976:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 16 08:05:14.404188 2018] [mpm_winnt:notice] [pid 6976:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Feb 16 08:05:14.404188 2018] [mpm_winnt:notice] [pid 6976:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Feb 16 08:05:14.404188 2018] [core:notice] [pid 6976:tid 316] AH00094: Command line: 'D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d D:/DATA/rossetlo/UwAmp-web2/bin/apache -f D:\\DATA\\rossetlo\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Feb 16 08:05:14.404188 2018] [mpm_winnt:notice] [pid 6976:tid 316] AH00418: Parent: Created child process 7420
+[Fri Feb 16 08:05:15.090293 2018] [ssl:warn] [pid 7420:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 16 08:05:15.090293 2018] [ssl:warn] [pid 7420:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 16 08:05:15.277413 2018] [ssl:warn] [pid 7420:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 16 08:05:15.277413 2018] [ssl:warn] [pid 7420:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 16 08:05:15.277413 2018] [ssl:warn] [pid 7420:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 16 08:05:15.308599 2018] [mpm_winnt:notice] [pid 7420:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 16 08:29:16.065567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP Warning:  include(inhead.php): failed to open stream: No such file or directory in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php on line 5
+[Fri Feb 16 08:29:16.065567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP Stack trace:
+[Fri Feb 16 08:29:16.065567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php:0
+[Fri Feb 16 08:29:16.065567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP Warning:  include(): Failed opening 'inhead.php' for inclusion (include_path='.;C:\\php\\pear') in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php on line 5
+[Fri Feb 16 08:29:16.065567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP Stack trace:
+[Fri Feb 16 08:29:16.065567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php:0
+[Fri Feb 16 08:29:16.066567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP Warning:  include(script.php): failed to open stream: No such file or directory in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php on line 70
+[Fri Feb 16 08:29:16.066567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP Stack trace:
+[Fri Feb 16 08:29:16.066567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php:0
+[Fri Feb 16 08:29:16.066567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.;C:\\php\\pear') in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php on line 70
+[Fri Feb 16 08:29:16.066567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP Stack trace:
+[Fri Feb 16 08:29:16.066567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50854] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php:0
+[Fri Feb 16 08:29:45.563567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50898] PHP Warning:  include(script.php): failed to open stream: No such file or directory in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php on line 70
+[Fri Feb 16 08:29:45.563567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50898] PHP Stack trace:
+[Fri Feb 16 08:29:45.563567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50898] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php:0
+[Fri Feb 16 08:29:45.563567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50898] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.;C:\\php\\pear') in D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php on line 70
+[Fri Feb 16 08:29:45.563567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50898] PHP Stack trace:
+[Fri Feb 16 08:29:45.563567 2018] [:error] [pid 7420:tid 1020] [client 127.0.0.1:50898] PHP   1. {main}() D:\\DATA\\rossetlo\\UwAmp-web2\\www\\P_Web2\\Accueil.php:0
+[Fri Feb 16 11:11:27.439570 2018] [:error] [pid 7420:tid 1064] [client ::1:49281] script 'D:/DATA/rossetlo/UwAmp-web2/www/P_Web2/book.php' not found or unable to stat
+[Fri Feb 16 11:20:13.426570 2018] [:error] [pid 7420:tid 1048] [client ::1:49464] script 'D:/DATA/rossetlo/UwAmp-web2/www/P_Web2/View/book.php' not found or unable to stat
+[Fri Feb 16 11:20:14.664570 2018] [:error] [pid 7420:tid 1048] [client ::1:49464] script 'D:/DATA/rossetlo/UwAmp-web2/www/P_Web2/View/book.php' not found or unable to stat
+[Fri Feb 16 11:21:21.102570 2018] [:error] [pid 7420:tid 1032] [client ::1:49470] script 'D:/DATA/rossetlo/UwAmp-web2/www/P_Web2/book.php' not found or unable to stat
+[Fri Feb 16 11:22:28.016571 2018] [mpm_winnt:notice] [pid 6976:tid 316] AH00428: Parent: child process 7420 exited with status 1073807364 -- Restarting.
+[Fri Mar 02 08:20:14.633362 2018] [ssl:warn] [pid 3212:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 02 08:20:14.633362 2018] [ssl:warn] [pid 3212:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 02 08:20:14.852251 2018] [core:warn] [pid 3212:tid 316] AH00098: pid file C:/Users/rossetlo/Desktop/P_Web2/UwAmp-web2/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 02 08:20:15.008600 2018] [ssl:warn] [pid 3212:tid 316] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Mar 02 08:20:15.008600 2018] [ssl:warn] [pid 3212:tid 316] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 02 08:20:15.008600 2018] [ssl:warn] [pid 3212:tid 316] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 02 08:20:15.430742 2018] [mpm_winnt:notice] [pid 3212:tid 316] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Mar 02 08:20:15.430742 2018] [mpm_winnt:notice] [pid 3212:tid 316] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Mar 02 08:20:15.430742 2018] [core:notice] [pid 3212:tid 316] AH00094: Command line: 'C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\bin\\apache\\bin\\httpd.exe -d C:/Users/rossetlo/Desktop/P_Web2/UwAmp-web2/bin/apache -f C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\bin\\apache\\conf\\httpd.conf'
+[Fri Mar 02 08:20:15.446377 2018] [mpm_winnt:notice] [pid 3212:tid 316] AH00418: Parent: Created child process 6304
+[Fri Mar 02 08:20:16.243757 2018] [ssl:warn] [pid 6304:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 02 08:20:16.243757 2018] [ssl:warn] [pid 6304:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 02 08:20:16.603359 2018] [ssl:warn] [pid 6304:tid 328] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Mar 02 08:20:16.603359 2018] [ssl:warn] [pid 6304:tid 328] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 02 08:20:16.603359 2018] [ssl:warn] [pid 6304:tid 328] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 02 08:20:16.822248 2018] [mpm_winnt:notice] [pid 6304:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP Warning:  include(../includes/inhead.php): failed to open stream: No such file or directory in C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\www\\P_Web2\\book.php on line 5, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP Stack trace:, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP   1. {main}() C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\www\\P_Web2\\book.php:0, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP Warning:  include(): Failed opening '../includes/inhead.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\www\\P_Web2\\book.php on line 5, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP Stack trace:, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP   1. {main}() C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\www\\P_Web2\\book.php:0, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\www\\P_Web2\\book.php on line 6, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP Stack trace:, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP   1. {main}() C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\www\\P_Web2\\book.php:0, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.;C:\\php\\pear') in C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\www\\P_Web2\\book.php on line 6, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP Stack trace:, referer: http://localhost:8080/P_Web2/
+[Fri Mar 02 08:24:04.504774 2018] [:error] [pid 6304:tid 1040] [client ::1:49799] PHP   1. {main}() C:\\Users\\rossetlo\\Desktop\\P_Web2\\UwAmp-web2\\www\\P_Web2\\book.php:0, referer: http://localhost:8080/P_Web2/
